@@ -12,7 +12,9 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "shims.d.ts",
+        "gamepad.cpp.ts"
     ],
     "testFiles": [
         "test.ts"
